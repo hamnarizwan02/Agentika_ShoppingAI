@@ -1,5 +1,6 @@
 # Agentika_ShoppingAI
 For Agentika AI Hackathon
+<<<<<<< HEAD
 
 # Shopping Deals AI
 
@@ -16,3 +17,5 @@ This is a React-based virtual assistant that helps users find the best shopping 
 
 - Node.js (for running the app locally)
 - npm or yarn (for managing dependencies
+=======
+>>>>>>> 10d1559b0a7c1b98a3766be3b00029660d3dd123
