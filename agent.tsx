@@ -23,7 +23,6 @@ export default function MyAgent() {
     console.log("Disclaimer: I am a virtual assistant. I help you find the best shopping deals aligned with your preferences!");
   }, []);
 
-  // Hardcoded list of deals (replace with your own product data)
   const sampleDeals: Deal[] = [
     {
       name: 'Sony Noise Cancelling Headphones',

@@ -3,7 +3,7 @@ For Agentika AI Hackathon
 
 # Shopping Deals AI
 
-This is a React-based virtual assistant that helps users find the best shopping deals aligned with their preferences and purchasing habits. It integrates with a joke API to display a random joke every time a query is made, making the experience more engaging.
+This is a React-based virtual assistant that helps users find the best shopping deals aligned with their preferences and purchasing habits. It integrates with a joke API to display a random joke every time a query is made, making the experience more engaging and for fun purposes.
 
 ## Features
 
